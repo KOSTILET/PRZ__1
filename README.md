@@ -11,7 +11,7 @@
 ![image](https://github.com/user-attachments/assets/f6a00b9f-fe06-4efa-bf7a-ee324da949f4)
 Установĸа Loki 
 ![image](https://github.com/user-attachments/assets/21444b57-3c27-4f04-a181-711cc9fc6f8e)
-Добавление правила пересылĸи логов на сервер
+
 ![image](https://github.com/user-attachments/assets/b390d651-c1bd-4172-9d8a-3ce0e0ffdddf)
 
 ![image](https://github.com/user-attachments/assets/ac6c198a-cb78-4213-983a-62db744f7dda)
