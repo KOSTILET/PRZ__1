@@ -1,8 +1,9 @@
 # Практическая задание №1. Сбор логов
 Выполнил Костомахин Антон Александрович, группа ББМО-02-23
 Установĸа rsyslog на сервер
-![image](https://github.com/user-attachments/assets/36fc520e-2834-476a-a706-c94dbda5dbca)
 Настройĸа модулей и добавление правил rsyslog
+![image](https://github.com/user-attachments/assets/36fc520e-2834-476a-a706-c94dbda5dbca)
+
 ![image](https://github.com/user-attachments/assets/17c073f3-e09e-434d-b165-c83eab19d222)
 
 ![image](https://github.com/user-attachments/assets/0545f558-645a-4484-8b39-75983d087a27)
