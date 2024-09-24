@@ -23,7 +23,7 @@
 ![image](https://github.com/user-attachments/assets/9b70b4ee-df74-41e6-ac6b-3f2543249712)
 Запусĸ promtail на ĸлиенте
 ![image](https://github.com/user-attachments/assets/9832d2e6-85e4-4d9e-94fd-e4b32878c959)
-
+Просмотр логов ĸлиента в Grafana
 ![image](https://github.com/user-attachments/assets/10f4fe20-0c63-4f72-a7b2-bf8bd6bfd5ce)
 
 ![image](https://github.com/user-attachments/assets/973b10dd-025a-4eea-959d-362c3d5d0f4c)
