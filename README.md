@@ -25,7 +25,7 @@
 ![image](https://github.com/user-attachments/assets/9832d2e6-85e4-4d9e-94fd-e4b32878c959)
 Просмотр логов ĸлиента в Grafana
 ![image](https://github.com/user-attachments/assets/10f4fe20-0c63-4f72-a7b2-bf8bd6bfd5ce)
-
+Информация о приложении в Signoz
 ![image](https://github.com/user-attachments/assets/973b10dd-025a-4eea-959d-362c3d5d0f4c)
 
 ![image](https://github.com/user-attachments/assets/663ce36d-e0c1-4011-bba0-0a0a9c54ddde)
