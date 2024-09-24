@@ -17,11 +17,11 @@
 ![image](https://github.com/user-attachments/assets/ac6c198a-cb78-4213-983a-62db744f7dda)
 
 ![image](https://github.com/user-attachments/assets/9c9366f5-88b5-4774-8809-43d2c3b5b894)
-Запусĸ promtail на ĸлиенте
+
 ![image](https://github.com/user-attachments/assets/2de93162-e7e6-4e7b-b3e3-a4632aa22a55)
 
 ![image](https://github.com/user-attachments/assets/9b70b4ee-df74-41e6-ac6b-3f2543249712)
-
+Запусĸ promtail на ĸлиенте
 ![image](https://github.com/user-attachments/assets/9832d2e6-85e4-4d9e-94fd-e4b32878c959)
 
 ![image](https://github.com/user-attachments/assets/10f4fe20-0c63-4f72-a7b2-bf8bd6bfd5ce)
