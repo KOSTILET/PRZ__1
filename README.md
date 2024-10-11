@@ -81,7 +81,3 @@
 
 ![image](https://i.imgur.com/NRgjXRk.png)
 
-
-
-
-PRZ-1
